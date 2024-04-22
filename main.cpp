@@ -1,3 +1,13 @@
+// Program Description:
+// This program processes text records
+// The program reads from a file entered by the user
+// The records are stored in a linked list where each node is a single record
+// The nodes are stored in alphabetic order, the categories are maintained in their order in the file
+// Usage:
+// The program is designed to be used with the provided files. If the user enters a file not included it will not work
+// If the user would like to add additional files they may; however, they must be stored at the root level
+
+
 #include <iostream>
 #include <fstream>
 #include "LinkedList.h"
